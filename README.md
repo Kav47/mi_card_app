@@ -1,10 +1,8 @@
-![App Brewery Banner](https://github.com/londonappbrewery/Images/blob/master/AppBreweryBanner.png)
-
-# Mi Card
+# Mi Card - Udemy Tutorial
 
 ## Our Goal
 
-Now that you've seen how to create a Flutter app entirely from scratch, we're going to go further and learn more about how to design user interfaces for Flutter apps.
+We're going to go further and learn more about how to design user interfaces for Flutter apps.
 
 ## What you will create
 
@@ -21,8 +19,11 @@ Mi Card is a personal business card. Imagine every time you wanted to give someo
 * How to style Text widgets
 * How to read and use Flutter Documentation
 
+>Flutter Docs](https://flutter.dev/docs)
 
+# Notes
 
->This is a companion project to The App Brewery's Complete Flutter Development Bootcamp, check out the full course at [www.appbrewery.co](https://www.appbrewery.co/)
+## Why Stateless?
+* So we can utilise hot reload
+* Stateless widget’s build method gets called whenever we create a new version of this widget (MyApp)
 
-![End Banner](https://github.com/londonappbrewery/Images/blob/master/readme-end-banner.png)
