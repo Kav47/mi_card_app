@@ -1,3 +1,5 @@
+[![Gitpod Ready-to-Code](https://img.shields.io/badge/Gitpod-Ready--to--Code-blue?logo=gitpod)](https://gitpod.io/#https://github.com/Kav47/mi_card_app) 
+
 # Mi Card - Udemy Tutorial
 
 ## Our Goal
@@ -19,7 +21,7 @@ Mi Card is a personal business card. Imagine every time you wanted to give someo
 * How to style Text widgets
 * How to read and use Flutter Documentation
 
->Flutter Docs](https://flutter.dev/docs)
+> [Flutter Docs](https://flutter.dev/docs)
 
 # Notes
 
