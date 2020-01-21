@@ -1,3 +1,5 @@
+[![Gitpod Ready-to-Code](https://img.shields.io/badge/Gitpod-Ready--to--Code-blue?logo=gitpod)](https://gitpod.io/#https://github.com/Kav47/mi_card_app) 
+
 # Mi Card - Udemy Tutorial
 
 ## Our Goal
